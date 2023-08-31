@@ -3,8 +3,14 @@ name: 'User Story: Template'
 about: Default user story template
 title: 'User Story: '
 labels: should-have
-assignees: ''
+assignees: DeeMcCart
 
 ---
 
-This template is intended to reflect the construction tasks needed for a house refurbishment
+EPIC:  <epic>
+
+As a **role** I can **capability** so that **received benefit**
+
+**Acceptance Criteria**
+
+**Tasks**
