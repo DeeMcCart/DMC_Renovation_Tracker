@@ -15,8 +15,7 @@ Assumptions:
 **Acceptance Criteria**
 - [ ] 
 - [ ] 
-
 **Tasks**
-- [ ]  
+- [ ] 
 - [ ] 
 - [ ]
